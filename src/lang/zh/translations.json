@@ -1,0 +1,43 @@
+{
+  "login": {
+    "title": "使用 Bagdja 登录",
+    "subtitle": "继续到",
+    "usernameOrEmail": "用户名或电子邮件",
+    "password": "密码",
+    "next": "下一步",
+    "signingIn": "登录中...",
+    "signInWithGoogle": "使用 Google 登录",
+    "useAnotherAccount": "使用其他账户",
+    "createAccount": "创建账户",
+    "help": "帮助",
+    "privacy": "隐私",
+    "terms": "条款",
+    "registered": "注册成功！请检查您的电子邮件以验证您的账户。",
+    "verified": "电子邮件验证成功！您现在可以登录了。",
+    "loginFailed": "登录失败。请重试。",
+    "noRedirectUrl": "未提供重定向 URL。请联系支持。"
+  },
+  "register": {
+    "title": "创建您的 Bagdja 账户",
+    "email": "电子邮件地址",
+    "username": "用户名",
+    "password": "密码",
+    "createAccount": "创建账户",
+    "creatingAccount": "创建账户中...",
+    "signUpWithGoogle": "使用 Google 注册",
+    "alreadyHaveAccount": "已有账户？",
+    "signIn": "登录",
+    "registrationFailed": "注册失败。请重试。"
+  },
+  "callback": {
+    "completingAuth": "完成身份验证...",
+    "noToken": "未收到令牌。请重新登录。",
+    "invalidRedirect": "重定向 URL 无效。请联系支持。",
+    "sessionExpired": "您的会话已过期。请重新登录。",
+    "backToLogin": "返回登录"
+  },
+  "common": {
+    "loading": "加载中...",
+    "or": "或"
+  }
+}

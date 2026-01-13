@@ -1,0 +1,43 @@
+{
+  "login": {
+    "title": "Sign in with Bagdja",
+    "subtitle": "To continue to",
+    "usernameOrEmail": "Username or Email",
+    "password": "Password",
+    "next": "Next",
+    "signingIn": "Signing in...",
+    "signInWithGoogle": "Sign in with Google",
+    "useAnotherAccount": "Use another account",
+    "createAccount": "Create account",
+    "help": "Help",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "registered": "Registration successful! Please check your email to verify your account.",
+    "verified": "Email verified successfully! You can now log in.",
+    "loginFailed": "Login failed. Please try again.",
+    "noRedirectUrl": "No redirect URL provided. Please contact support."
+  },
+  "register": {
+    "title": "Create your Bagdja account",
+    "email": "Email address",
+    "username": "Username",
+    "password": "Password",
+    "createAccount": "Create account",
+    "creatingAccount": "Creating account...",
+    "signUpWithGoogle": "Sign up with Google",
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Sign in",
+    "registrationFailed": "Registration failed. Please try again."
+  },
+  "callback": {
+    "completingAuth": "Completing authentication...",
+    "noToken": "No token received. Please try logging in again.",
+    "invalidRedirect": "Invalid redirect URL. Please contact support.",
+    "sessionExpired": "Your session has expired. Please sign in again.",
+    "backToLogin": "Back to Login"
+  },
+  "common": {
+    "loading": "Loading...",
+    "or": "Or"
+  }
+}

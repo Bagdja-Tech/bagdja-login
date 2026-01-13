@@ -1,0 +1,43 @@
+{
+  "login": {
+    "title": "Iniciar sesión con Bagdja",
+    "subtitle": "Para continuar a",
+    "usernameOrEmail": "Nombre de usuario o correo electrónico",
+    "password": "Contraseña",
+    "next": "Siguiente",
+    "signingIn": "Iniciando sesión...",
+    "signInWithGoogle": "Iniciar sesión con Google",
+    "useAnotherAccount": "Usar otra cuenta",
+    "createAccount": "Crear cuenta",
+    "help": "Ayuda",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "registered": "¡Registro exitoso! Por favor revise su correo electrónico para verificar su cuenta.",
+    "verified": "¡Correo electrónico verificado exitosamente! Ahora puede iniciar sesión.",
+    "loginFailed": "Error al iniciar sesión. Por favor intente de nuevo.",
+    "noRedirectUrl": "No se proporcionó URL de redirección. Por favor contacte al soporte."
+  },
+  "register": {
+    "title": "Crea tu cuenta de Bagdja",
+    "email": "Dirección de correo electrónico",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "createAccount": "Crear cuenta",
+    "creatingAccount": "Creando cuenta...",
+    "signUpWithGoogle": "Registrarse con Google",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "signIn": "Iniciar sesión",
+    "registrationFailed": "Error en el registro. Por favor intente de nuevo."
+  },
+  "callback": {
+    "completingAuth": "Completando autenticación...",
+    "noToken": "No se recibió token. Por favor intente iniciar sesión de nuevo.",
+    "invalidRedirect": "URL de redirección inválida. Por favor contacte al soporte.",
+    "sessionExpired": "Tu sesión ha expirado. Por favor inicia sesión de nuevo.",
+    "backToLogin": "Volver al inicio de sesión"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "or": "O"
+  }
+}

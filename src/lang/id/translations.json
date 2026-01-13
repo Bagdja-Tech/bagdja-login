@@ -1,0 +1,43 @@
+{
+  "login": {
+    "title": "Masuk dengan Bagdja",
+    "subtitle": "Untuk melanjutkan ke",
+    "usernameOrEmail": "Username atau Email",
+    "password": "Password",
+    "next": "Selanjutnya",
+    "signingIn": "Masuk...",
+    "signInWithGoogle": "Masuk dengan Google",
+    "useAnotherAccount": "Gunakan akun lain",
+    "createAccount": "Buat akun",
+    "help": "Bantuan",
+    "privacy": "Privasi",
+    "terms": "Syarat",
+    "registered": "Registrasi berhasil! Silakan periksa email Anda untuk memverifikasi akun.",
+    "verified": "Email berhasil diverifikasi! Anda sekarang dapat masuk.",
+    "loginFailed": "Login gagal. Silakan coba lagi.",
+    "noRedirectUrl": "Tidak ada redirect URL yang diberikan. Silakan hubungi dukungan."
+  },
+  "register": {
+    "title": "Buat akun Bagdja Anda",
+    "email": "Alamat Email",
+    "username": "Username",
+    "password": "Password",
+    "createAccount": "Buat akun",
+    "creatingAccount": "Membuat akun...",
+    "signUpWithGoogle": "Daftar dengan Google",
+    "alreadyHaveAccount": "Sudah punya akun?",
+    "signIn": "Masuk",
+    "registrationFailed": "Registrasi gagal. Silakan coba lagi."
+  },
+  "callback": {
+    "completingAuth": "Menyelesaikan autentikasi...",
+    "noToken": "Tidak ada token yang diterima. Silakan coba masuk lagi.",
+    "invalidRedirect": "URL redirect tidak valid. Silakan hubungi dukungan.",
+    "sessionExpired": "Sesi Anda telah habis. Silakan masuk kembali.",
+    "backToLogin": "Kembali ke Login"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "or": "Atau"
+  }
+}
